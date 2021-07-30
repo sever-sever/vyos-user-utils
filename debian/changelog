@@ -1,0 +1,5 @@
+vyos-user-utils (1.4.0+vyos1+current) unstable; urgency=medium
+
+  * Initial version.
+
+ -- Daniil Baturin <daniil@vyos.io>  Fri, 30 Jul 2021 10:31:40 -0500

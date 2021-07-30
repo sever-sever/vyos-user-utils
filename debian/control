@@ -1,0 +1,12 @@
+Source: vyos-user-utils
+Section: contrib/net
+Priority: extra
+Maintainer: VyOS Package Maintainers <maintainers@vyos.net>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.9.1
+
+Package: vyos-user-utils
+Architecture: all
+Depends: sipcalc
+Description: VyOS metapackage
+ Installs everything required for VyOS to work
