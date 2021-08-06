@@ -8,5 +8,5 @@ Standards-Version: 3.9.1
 Package: vyos-user-utils
 Architecture: all
 Depends: sipcalc
-Description: VyOS metapackage
- Installs everything required for VyOS to work
+Description: VyOS user utilities metapackage
+ Installs utilities that are provided for the users but no used by VyOS scripts.
