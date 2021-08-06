@@ -7,6 +7,30 @@ Standards-Version: 3.9.1
 
 Package: vyos-user-utils
 Architecture: all
-Depends: sipcalc
+Depends:
+  sipcalc,
+  ipcalc,
+  nmap,
+  dnsutils,
+  whois,
+  netcat-openbsd,
+  socat,
+  nano,
+  screen,
+  minicom,
+  iftop,
+  lsof,
+  openssh-client,
+  haveged,
+  htop,
+  atop,
+  iotop,
+  irqtop,
+  aptitude,
+  localepurge,
+  bgpq3,
+  libnss-myhostname,
+  ssl-cert,
+  ndisc6
 Description: VyOS user utilities metapackage
  Installs utilities that are provided for the users but no used by VyOS scripts.
