@@ -32,6 +32,7 @@ Depends:
   libnss-myhostname,
   ssl-cert,
   ndisc6,
-  haproxy
+  haproxy,
+  dnsdist
 Description: VyOS user utilities metapackage
  Installs utilities that are provided for the users but no used by VyOS scripts.
