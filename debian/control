@@ -31,6 +31,7 @@ Depends:
   bgpq3,
   libnss-myhostname,
   ssl-cert,
-  ndisc6
+  ndisc6,
+  haproxy
 Description: VyOS user utilities metapackage
  Installs utilities that are provided for the users but no used by VyOS scripts.
