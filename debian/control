@@ -9,6 +9,7 @@ Package: vyos-user-utils
 Architecture: all
 Depends:
   aptitude,
+  arpwatch,
   atop,
   bgpq3,
   dnsdist,
