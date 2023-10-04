@@ -18,7 +18,6 @@ Depends:
   exfatprogs,
   fancontrol,
   grepcidr,
-  haproxy,
   haveged,
   htop,
   iftop,
