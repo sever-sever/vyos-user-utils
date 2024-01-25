@@ -33,6 +33,7 @@ Depends:
   ndisc6,
   netcat-openbsd,
   nmap,
+  numactl,
   openssh-client,
   screen,
   sipcalc,
